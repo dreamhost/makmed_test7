@@ -8,16 +8,13 @@ import { Contact } from "@src/components/sections/Contact";
 
 export default function Home() {
   return (
-   <div data-editor-tag="OzkmGY064o"  className="flex min-h-screen flex-col">
-     <Header data-editor-tag="9KcQxq1Mp7"  />
-     <main data-editor-tag="F08x6hSva9"  className="flex-1">
-       <Hero data-editor-tag="FceBWqKqHB"  />
-       <Features data-editor-tag="bomYjRhuzW"  />
-       <Testimonials data-editor-tag="mwDoxxfkiA"  />
-       <Pricing data-editor-tag="lxcepMAyom"  />
-       <Contact data-editor-tag="TSbRNKFCUS"  />
+  <div data-editor-tag="B9LFsTaRhD"  className="flex min-h-screen flex-col">
+    <Header data-editor-tag="j2DdnwAl8w"  />
+    <main data-editor-tag="uecuoBFFg7"  className="flex-1">
+      <Pricing data-editor-tag="9zaLjyzUi1"  />
+      <Contact data-editor-tag="jfs8BL3nc9"  />
       </main>
-     <Footer data-editor-tag="KG994gFKe1"  />
+    <Footer data-editor-tag="D8skuYvgxf"  />
     </div>
   );
 }
