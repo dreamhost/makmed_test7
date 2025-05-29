@@ -2,20 +2,7 @@
 
 A modern, responsive landing page template built with Next.js, React, TypeScript, and Tailwind CSS.
 
-## Features
 
-- Clean, professional design
-- Fully responsive for all devices
-- Modular component architecture
-- Built with modern technologies
-- Easy to customize and extend
-- Accessibility compliant
-
-## Tech Stack
-
-- **Framework**: Next.js with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
 - **Components**: shadcn/ui
 - **Optimization**: Built-in with Next.js
 
